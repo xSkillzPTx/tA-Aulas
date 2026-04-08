@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tA-Aulas", "tA-Aulas\tA-Aulas.csproj", "{567AE52D-2F6F-4242-BA99-C259D4C8530B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567AE52D-2F6F-4242-BA99-C259D4C8530B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567AE52D-2F6F-4242-BA99-C259D4C8530B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567AE52D-2F6F-4242-BA99-C259D4C8530B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567AE52D-2F6F-4242-BA99-C259D4C8530B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
